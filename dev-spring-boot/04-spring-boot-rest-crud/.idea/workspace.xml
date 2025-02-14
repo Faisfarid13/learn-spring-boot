@@ -1,15 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d1ff1775-f69f-414d-aa31-cd39259960ba" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/07-spring-boot-rest-crud-employee-list-employees/src/main/java/com/example/springboot/cruddemo/dao/EmployeeDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07-spring-boot-rest-crud-employee-list-employees/src/main/java/com/example/springboot/cruddemo/dao/EmployeeDAOImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07-spring-boot-rest-crud-employee-list-employees/src/main/java/com/example/springboot/cruddemo/entity/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07-spring-boot-rest-crud-employee-list-employees/src/main/java/com/example/springboot/cruddemo/rest/EmployeeController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-spring-boot-rest-crud-employee-refactored-service-layer/src/main/java/com/example/springboot/cruddemo/implementation/EmployeeServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-spring-boot-rest-crud-employee-refactored-service-layer/src/main/java/com/example/springboot/cruddemo/service/EmployeeService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13-spring-boot-rest-crud-employee-rest-controller-update-and-delete-employee/src/main/java/com/example/springboot/cruddemo/service/EmployeeService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14-spring-boot-rest-crud-employee-spring-data-jpa/src/main/java/com/example/springboot/cruddemo/dao/EmployeeRepository.java" afterDir="false" />
+    <list default="true" id="8b42fb45-932b-46bc-8ef4-5d0589eab36e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,10 +12,11 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
-  <component name="ProjectId" id="2t1vWUbc6YR10J6Pt3yy31rEmAO" />
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2t1zLtsSQtVxrkVz5WWgovCOiBz" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -33,18 +27,29 @@
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/laragon/www/spring-boot/dev-spring-boot/04-spring-boot-rest-crud"
+    "last_opened_file_path": "C:/laragon/www/spring-boot/dev-spring-boot/04-spring-boot-rest-crud/16-spring-boot-rest-crud-employee-spring-data-rest-config-sorting"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="d1ff1775-f69f-414d-aa31-cd39259960ba" name="Changes" comment="" />
-      <created>1739532426736</created>
+      <changelist id="8b42fb45-932b-46bc-8ef4-5d0589eab36e" name="Changes" comment="" />
+      <created>1739534316639</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1739532426736</updated>
+      <updated>1739534316639</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
